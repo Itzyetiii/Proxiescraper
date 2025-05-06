@@ -97,7 +97,7 @@ The **Proxy Scraper Tool** is an awesome, easy-to-use software designed to scrap
 
 Here's what the Proxy Scraper Tool looks like in action:
 
-![Proxy Scraper Tool UI](![image](https://github.com/user-attachments/assets/9995cd14-5f94-4d17-a8fe-7ba21159a587)
+! Proxy Scraper Tool UI https://github.com/user-attachments/assets/9995cd14-5f94-4d17-a8fe-7ba21159a587 
 )
 
 ---
@@ -105,7 +105,3 @@ Here's what the Proxy Scraper Tool looks like in action:
 ### **Conclusion:**
 
 The **Proxy Scraper Tool** is the **ultimate solution** for anyone who needs reliable, fresh proxies quickly and easily. Whether you're a developer, SEO specialist, or just someone who needs proxies for security, this tool has you covered. With daily regeneration, filtering, and seamless integration, it's the perfect companion for your online projects. 🧑‍💻💡
-
----
-
-This version now includes the **How to Install** section with clear steps to guide the user. You can replace **"INSERT\_IMAGE\_HERE"** with your actual image. Let me know if you'd like further adjustments! 😊
